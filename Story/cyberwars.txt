@@ -1,0 +1,29 @@
+                                                                                       Game : CyberWars                                                                                          
+
+                                                                                            Story
+ 
+it is the year 2062 and the robots have turned on the humans. The ai given to them by humans which gave them feelings has made them hungry for power . The entire civilization has gone into hiding and young Jack is the only one left above the surface . He makes a plan to go to the castle and steal the robots power source .  However he is not alone as some of his brave friends choose to help him . Can jack and his friends do it before the robots terminate the entire human civilization.
+
+                                                                                            Obstacles
+
+Jack will have to face many obstacles on his path to saving humanity . After reaching the castle he will have to get past the ardent security system , and the millions of robots guarding the palace wont make it easy for him . Along with the loads of traps placed everywhere , it will be a very hard mission for jack . 
+
+                                                                                             Chance
+
+To enter the castle Jack will have to figure out a 2 number passcode . the passcode wont have any repetetive numbers . It might take some time to figure out , but it isnt very hard.
+
+                                                                                             Ending 
+
+When Jack gets through all the guards , he will be faced by the king of the robots who will attempt to destroy jack with his deadly lasers . dodge the lasers and get to the king .After defeating the king Jack must destroy the power source . After this is done there will be a screen which will show that the game is over . 
+
+                                          
+
+
+
+                                                                                     Movement style : W A S D
+
+
+                                                                                     Special action key : E
+                                                      
+                                                                                     
+                                                                                     
